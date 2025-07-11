@@ -1,7 +1,5 @@
 
 **🏥 Medical Information System – Patient & Hospital Management C++ based system**
-
-A console-based hospital management system developed in **C++** or managing patient records, staff details, and appointments with secure admin login and data persistence.
 ---
 🩺 Project Overview
 
